@@ -17,7 +17,7 @@ keywords: Occupational Choice, Vocational Interests, Psychometrics
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+            <img src="../assets/headshot.jpeg"
                   title="Ben Listyg" alt="Ben Listyg"/></a>
         </div>
     </div>
