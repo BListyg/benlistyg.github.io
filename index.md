@@ -10,15 +10,14 @@ keywords: Occupational Choice, Vocational Interests, Psychometrics
 
     <div class="row-fluid">
         <div class="span5">
-            Dan Simpson<br/>
-            Email: simpson@utstat.toronto.edu<br/>
-            Office: Sidney Smith 6026A
+            Ben Listyg<br/>
+            Email: listyg@uga.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Dan Simpson" alt="Dan Simpson"/></a>
+                  title="Ben Listyg" alt="Ben Listyg"/></a>
         </div>
     </div>
 </div>
