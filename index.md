@@ -6,7 +6,7 @@ keywords: Occupational Choice, Vocational Interests, Psychometrics
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
