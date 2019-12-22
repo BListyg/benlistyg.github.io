@@ -6,14 +6,14 @@ ul,ol {
 
 a
 {
-  color: purple;
+  color: red;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover
 {
-  color: purple;
+  color: red;
   background: #CAFFFF;
 }
 
