@@ -6,12 +6,13 @@ keywords: Occupational Choice, Vocational Interests, Psychometrics
 ---
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Ben Listyg<br/>
             Email: listyg@uga.edu<br/>
+            Twitter: @benlistyg<br/>
         </div>
 
         <div class="span2">
